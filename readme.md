@@ -30,5 +30,3 @@ By conducting a comprehensive analysis encompassing data preprocessing, EDA, and
 3. Explore the Jupyter notebook to understand the analysis process.
 4. Run the notebooks to reproduce the analysis or modify them to suit your specific needs.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
