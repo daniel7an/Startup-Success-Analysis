@@ -1,4 +1,4 @@
-# Startup Success and Failure Analysis
+# Startup Success and Failure Analysis 🔬
 
 ## Overview
 This project aims to analyze factors contributing to the success or failure of startups through exploratory data analysis (EDA) and predictive modeling. The dataset contains various attributes related to 472 startup companies.
@@ -19,6 +19,7 @@ By conducting a comprehensive analysis encompassing data preprocessing, EDA, and
 
 ## Repository Structure
 -  data.cvs: Dataset used for analysis.
+-  dictionary.csv: Descriptions of the features.
 -  startup_eda.ipynb: Notebook of the project.
 - `README.md`: This file providing an overview of the project.
 
