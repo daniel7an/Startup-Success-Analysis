@@ -1,4 +1,5 @@
 # Startup Success and Failure Analysis 🔬
+![](https://github.com/daniel7an/Startup-Success-Analysis/blob/main/startup.jpg)
 
 ## Overview
 This project aims to analyze factors contributing to the success or failure of startups through exploratory data analysis (EDA) and predictive modeling. The dataset contains various attributes related to 472 startup companies.
